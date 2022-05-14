@@ -1,16 +1,18 @@
-### Hi there 👋
+## Emanoel IF-PE 
+### Estudante
+#
 
-<!--
-**Emanoel10/Emanoel10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Emanoel10 GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanoel10&show_icons=true&theme=cobalt)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Tecnologias
+
+<div style="display: inline_block"><br/>
+  
+  <img width="6%" alighn="center" alt="java" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_logo_icon_146458.png" />
+  
+  <img width="6%" alighn="center" alt="Adobe After Effects" src="https://cdn.icon-icons.com/icons2/3053/PNG/128/adobe_after_effects_macos_bigsur_icon_190464.png" />
+  
+  <img width="6%" alighn="center" alt="Blender 3D" src="https://cdn.icon-icons.com/icons2/195/PNG/128/Blender_23505.png" />
+
+  
