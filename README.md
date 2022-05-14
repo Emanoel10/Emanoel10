@@ -9,6 +9,6 @@
 
 <div style="display: inline_block"><br/>
   
-  <img width="6%" alighn="center" alt="java" src="https://discord.com/channels/622963221677998100/974064341106167849/974854933729906718" />
+  <img width="15%" alighn="center" alt="java" src="https://cdn.discordapp.com/attachments/974064341106167849/974854933511798834/Comp_1_0-00-00-00.png" />
 
   
