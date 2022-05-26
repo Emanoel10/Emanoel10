@@ -6,9 +6,6 @@
 
 #
 ###  Tecnologias
-Java: Iniciante
-Adobe After Effects: Avançado
-Blender: Médio
 
 <div style="display: inline_block"><br/>
   
