@@ -10,7 +10,7 @@
  
 ###  
 
-<img align="right" alt="monkey" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/profile_images/1166195711425355776/M5oxal9J_400x400.jpg">
+<img align="right" alt="monkey" height="150em" width="150em" src="https://pbs.twimg.com/profile_images/1166195711425355776/M5oxal9J_400x400.jpg">
 </div>
 
 ##
