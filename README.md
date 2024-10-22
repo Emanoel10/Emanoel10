@@ -3,8 +3,8 @@
 
 <div align="center">
  
-![Emanoel10 GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanoel10&show_icons=true&theme=cobalt)
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanoel10&theme=cobalt&hide_border=false&&layout=compact"/>
+![Emanoel10 GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanoel10&show_icons=true&theme=highcontrast)
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanoel10&theme=highcontrast&hide_border=false&&layout=compact"/>
 
 </div
  
