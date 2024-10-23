@@ -19,6 +19,6 @@
 
 <div align="center"> 
  
-[![My Skills](https://skillicons.dev/icons?i=html,css,figma,ai,ps,ae,blender)](https://github.com/Emanoel10)<!--(https://skillicons.dev)-->
+[![My Skills](https://skillicons.dev/icons?i=java,php,html,css,figma,ai,ps,ae,blender)](https://github.com/Emanoel10)<!--(https://skillicons.dev)-->
 
 </div>
