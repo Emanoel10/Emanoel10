@@ -4,13 +4,13 @@
 <div align="center">
  
 [![Emanoel10 GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanoel10&show_icons=true&theme=nightowl)](https://github.com/Emanoel10)
-[<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanoel10&theme=nightowl&hide_border=false&&layout=compact"/>](https://github.com/Emanoel10)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanoel10&layout=compact&theme=nightowl&hide_border=false)](https://github.com/Emanoel10)
 
 </div
  
 ###  
 
-[<img align="right" alt="monkey" height="250em" width="250em" src="papagaio.gif">](https://github.com/Emanoel10)
+[<img align="right" alt="monkey" height="250em" width="50em" src="papagaio.gif">](https://github.com/Emanoel10)
 </div>
 
 ##
@@ -19,6 +19,6 @@
 
 <div align="center"> 
  
-[![My Skills](https://skillicons.dev/icons?i=java,php,html,css,figma,ai,ps,ae,blender)](https://github.com/Emanoel10)<!--(https://skillicons.dev)-->
+[![My Skills](https://skillicons.dev/icons?i=java,php,html,css,bootstrap,figma,ai,ps,ae,blender)](https://github.com/Emanoel10)<!--(https://skillicons.dev)-->
 
 </div>
