@@ -4,7 +4,8 @@
 <div align="center">
  
 [![Emanoel10 GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanoel10&show_icons=true&theme=nightowl)](https://github.com/Emanoel10)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanoel10&layout=compact&theme=nightowl&hide_border=false)](https://github.com/Emanoel10)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanoel10&layout=compact&theme=nightowl&hide_border=false&langs_count=7)](https://github.com/Emanoel10)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanoel10&langs_count=7&theme=nightowl)](https://github.com/Emanoel10)-->
 
 </div
  
