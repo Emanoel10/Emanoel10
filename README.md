@@ -23,3 +23,9 @@
 [![My Skills](https://skillicons.dev/icons?i=java,php,html,css,bootstrap,figma,ai,ps,ae,blender)](https://github.com/Emanoel10)<!--(https://skillicons.dev)-->
 
 </div>
+
+<div align="center">
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Emanoel10}/count.svg" /></p> 
+<br>
+</div>
